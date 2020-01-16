@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass5/ArrayList.h
+iostream
+-
+stdio.h
+-
+string
+-
+ListInterface.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass5/ListInterface.h
+assert.h
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass5/ListInterface.h
+stdexcept
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass5/SortStatistics.cpp
+cstdio
+-
+stdexcept
+-
+string
+-
+ArrayList.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass5/ArrayList.h
+iostream
+-
+iostream
+-
+fstream
+-
+vector
+-
+
