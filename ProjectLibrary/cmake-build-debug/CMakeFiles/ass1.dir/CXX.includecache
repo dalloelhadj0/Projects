@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/Library.cpp
+iostream
+-
+Library.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/Library.h
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/Library.h
+ostream
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/ostream
+iostream
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/ass1.cpp
+iostream
+-
+Library.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/ass1/Library.h
+cassert
+-
+

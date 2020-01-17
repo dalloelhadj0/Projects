@@ -1,0 +1,26 @@
+CSS342 Homework Self-Assessment
+
+Name:Elhadj Diallo
+
+
+Do you have test functions testing all your functions? Have you tested
+edge cases such as first element in an array, last element in an
+array, empty array, etc?
+
+complete and correct programs:  50/ 50
+
+
+Does your program compile without warnings? Are there any blocks of
+repeated code that can be simplified?
+
+good programming practices:     30/ 30
+
+Do you have comments for each class both in the header and
+implementation file? Does each variable and function have an
+associated comment? Is your program properly indented? See "Code Style
+Examples - Snippets" under C++ Resources for some common problems. For
+example, all file names have to be in lowercase, all class names are
+capitalized, need to have spaces after comments, stick to maximum 80
+characters per line, space between operators, etc.
+
+code that is easy to understand:    20 / 20

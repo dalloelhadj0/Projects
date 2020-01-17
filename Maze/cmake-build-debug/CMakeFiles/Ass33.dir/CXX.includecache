@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.cpp
+Creature.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.h
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.h
+string
+-
+Maze.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.h
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.cpp
+fstream
+-
+Maze.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.h
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.h
+iostream
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/assignment3.cpp
+iostream
+-
+Maze.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.h
+Creature.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.h
+

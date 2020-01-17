@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass4/SkipList.cpp
+SkipList.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass4/SkipList.h
+iostream
+-
+assert.h
+-
+climits
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass4/SkipList.h
+iostream
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass4/assignment4.cpp
+iostream
+-
+SkipList.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass4/SkipList.h
+assert.h
+-
+

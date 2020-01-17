@@ -1,0 +1,76 @@
+Test1: 
+20 7 
+0 18 
+xxxxxxxxxxxxxxxxxx x
+x     x       xxxx x
+x xxxxx  xxxxx  xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+The Creature C(0,18) is right at the exit : Maze at exit
+20 7 
+0 18 
+xxxxxxxxxxxxxxxxxx+x
+x     x       xxxx x
+x xxxxx  xxxxx  xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+Test2: 
+10 5 
+0 8 
+xxxxxxxx x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+
+The path of the coordinate C(0,8) is : Maze at exit
+10 5 
+0 8 
+xxxxxxxx+x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+
+Test3: 
+10 5 
+0 8 
+xxxxxxxx x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+
+The path of the coordinate C(0,8) is : NENN
+10 5 
+0 8 
+xxxxxxxx*x
+xxx xxxx*x
+x xxxxx**x
+x xxxxxx x
+xxxxxxxxxx
+
+Test4: 
+10 5 
+0 8 
+xxxxxxxx x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+
+The path of the coordinate C(-234,-123) is : X
+10 5 
+0 8 
+xxxxxxxx x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+

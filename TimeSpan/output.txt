@@ -1,0 +1,11 @@
+This test will print some overloaded function to check that the program runn efficietly
+The tz (addition of tx + ty) = 2:41:00
+The ts3 (addition of ts3 + ts2) = 14:14:28
+The addition of ts3 and ts2= 14:14:28
+The addition of ts3 and ts2= 14:14:28
+Time x3 = 18:00:00
+Time x1= 2:39:27
+Time xx =6:20:33
+Time t5= 7:26:00
+
+successfully passed all test.

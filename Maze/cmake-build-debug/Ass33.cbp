@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ass33"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass33">
+				<Option output="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Ass33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass33"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass33/fast">
+				<Option output="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Ass33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass33/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.cpp">
+			<Option target="Ass33"/>
+		</Unit>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Creature.h">
+			<Option target="Ass33"/>
+		</Unit>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.cpp">
+			<Option target="Ass33"/>
+		</Unit>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/Maze.h">
+			<Option target="Ass33"/>
+		</Unit>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/assignment3.cpp">
+			<Option target="Ass33"/>
+		</Unit>
+		<Unit filename="/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass33/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

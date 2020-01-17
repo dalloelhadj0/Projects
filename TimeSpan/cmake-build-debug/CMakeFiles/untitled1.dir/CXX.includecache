@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass2/TimeSpan.cpp
+TimeSpan.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass2/TimeSpan.h
+iostream
+-
+cmath
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass2/TimeSpan.h
+iostream
+-
+
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass2/ass2.cpp
+iostream
+-
+sstream
+-
+cassert
+-
+TimeSpan.h
+/Users/elhadjdiallo/Desktop/UW_fall2019/CSS342/Ass2/TimeSpan.h
+

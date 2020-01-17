@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/untitled1.dir/ass2.cpp.o CMakeFiles/untitled1.dir/TimeSpan.cpp.o  -o untitled1 
