@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BSTDrive.cpp
+iostream
+-
+istream
+-
+BinTree.h
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BinTree.h
+
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BinTree.cpp
+BinTree.h
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BinTree.h
+iostream
+-
+istream
+-
+
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BinTree.h
+NodeData.h
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/NodeData.h
+iostream
+-
+istream
+-
+
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/NodeData.cpp
+BinTree.h
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/BinTree.h
+NodeData.h
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/NodeData.h
+
+/Users/elhadjdiallo/Desktop/Previous Classes/Winter2020/CSS343/BSTree/NodeData.h
+string
+-
+iostream
+-
+fstream
+-
+

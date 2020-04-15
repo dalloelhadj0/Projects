@@ -1,0 +1,41 @@
+DisplaySideways: 
+                Ok
+            Nimma
+        Hello
+            Guinea
+                        Elhadj
+                    ELhadj
+                Diallo
+                       
+tree1:     Diallo ELhadj Elhadj Guinea Hello Nimma Ok 
+
+tree1:     Diallo ELhadj Elhadj Guinea Hello Nimma Ok 
+
+
+Test  BSTree to Array
+tree1 is empty
+
+Test arrayTo BSTree
+B3 is : 0    
+B3 is : 1 Diallo
+B3 is : 2 ELhadj
+B3 is : 3 Elhadj
+B3 is : 4 Guinea
+B3 is : 5 Hello
+B3 is : 6 Nimma
+B3 is : 7 Ok
+tree2 is :     Diallo ELhadj Elhadj Guinea Hello Nimma Ok 
+
+tree4 is :     Diallo ELhadj Elhadj Guinea Hello Nimma Ok 
+
+ 
+tree3 is : 
+ Must be empty 
+The Height of n7 : 0
+
+Test copy constructor and Equal and Inequal operators
+tree1 is equal to dup
+
+Test Retreive methods
+Node was found
+N5 is: Nimma

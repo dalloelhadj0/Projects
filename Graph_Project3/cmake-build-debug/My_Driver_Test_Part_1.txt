@@ -1,0 +1,27 @@
+5
+Martin Luther King
+Gun hill Road
+Flatbush Ave 
+Bronx Park Ave
+Brooklyn Bridge
+1 2 20
+1 3 50
+1 5 70
+2 4 90
+3 2 30
+3 4 40
+5 2 25
+5 4 29
+0 0  0
+4
+Alpha
+Betta
+Gamma
+Charlie
+1 2 40
+1 3 50
+2 3 20
+3 2 45
+4 3 60
+4 1 70
+0 0 0

@@ -1,0 +1,385 @@
+=============== Test 1===============
+**** Displaying Customer Lists ****
+
+USER: 1001, A, B
+
+USER: 2011, A, B
+
+USER: 1112, A, B
+
+USER: 1004, A, B
+
+USER: 1551, A, B
+**** Displaying Customer Lists ****
+
+USER: 1251, A, B
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+
+USER: 1881, A, B
+
+USER: 1001, A, B
+
+USER: 1004, A, B
+
+USER: 7531, A, B
+
+USER: 3647, A, B
+
+USER: 2011, A, B
+
+USER: 1112, A, B
+
+USER: 1551, A, B
+
+USER: 2195, A, B
+====================================
+=============== Test 2===============
+**** Displaying Customer Lists ****
+
+USER: 1000, Mouse, Minnie
+
+USER: 9000, Lizard, Larry
+
+USER: 4444, Moose, Bullwinkle
+
+USER: 2000, Duck, Donald
+
+USER: 6666, Donkey, Darrell
+
+USER: 8888, Pig, Porky
+
+USER: 8000, Wacky, Wally
+
+USER: 1111, Mouse, Mickey
+
+USER: 3333, Witch, Wicked
+
+USER: 5000, Frog, Freddie
+
+USER: 7777, Spider, Sammy
+
+USER: 9999, Duck, Daffy
+====================================
+=============== Test 3===============
+Invalid movie type: Z
+Invalid movie type: Z
+F, 10, Woody Allen, Annie Hall, 1977
+F, 10, Joel Coen, Fargo, 1996
+F, 10, John Landis, National Lampoon's Animal House, 1978
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+F, 10, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Nora Ephron, You've Got Mail, 1998
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Clint Eastwood, Unforgiven, 1992
+D, 10, Gus Van Sant, Good Will Hunting, 2000
+D, 10, Jonathan Demme, Silence of the Lambs, 1991
+D, 10, Nancy Savoca, Dogfight, 1991
+D, 10, Phillippe De Broca, King of Hearts, 1967
+D, 10, Steven Spielberg, Schindler's List, 1993
+C, 10, George Cukor, Holiday, Cary Grant 9 1938
+C, 10, George Cukor, Holiday, Katherine Hepburn 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh 2 1939
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+C, 10, George Cukor, The Philadelphia Story, Cary Grant 5 1940
+C, 10, George Cukor, The Philadelphia Story, Katherine Hepburn 5 1940
+C, 10, John Huston, The Maltese Falcon, Humphrey Bogart 10 1941
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart 8 1942
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman 8 1942
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, James Steward 11 1946
+C, 10, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell 2 1971
+C, 10, Hal Ashby, Harold and Maude, Ruth Gordon 3 1971
+====================================
+=============== Test 4===============
+Invalid movie type: Z
+Invalid movie type: Z
+
+**** Displaying Movie List ****
+F, 10, Woody Allen, Annie Hall, 1977
+F, 10, Joel Coen, Fargo, 1996
+F, 10, John Landis, National Lampoon's Animal House, 1978
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+F, 10, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Nora Ephron, You've Got Mail, 1998
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Clint Eastwood, Unforgiven, 1992
+D, 10, Gus Van Sant, Good Will Hunting, 2000
+D, 10, Jonathan Demme, Silence of the Lambs, 1991
+D, 10, Nancy Savoca, Dogfight, 1991
+D, 10, Phillippe De Broca, King of Hearts, 1967
+D, 10, Steven Spielberg, Schindler's List, 1993
+C, 10, George Cukor, Holiday, Cary Grant 9 1938
+C, 10, George Cukor, Holiday, Katherine Hepburn 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh 2 1939
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+C, 10, George Cukor, The Philadelphia Story, Cary Grant 5 1940
+C, 10, George Cukor, The Philadelphia Story, Katherine Hepburn 5 1940
+C, 10, John Huston, The Maltese Falcon, Humphrey Bogart 10 1941
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart 8 1942
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman 8 1942
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, James Steward 11 1946
+C, 10, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell 2 1971
+C, 10, Hal Ashby, Harold and Maude, Ruth Gordon 3 1971
+
+USER: 1000, Mouse, Minnie
+
+USER: 5000, Frog, Freddie
+
+USER: 8000, Wacky, Wally
+INVALID VIDEO CODE 2 1971 Malcolm McDowell
+INVALID ACTION CODEX
+INVALID ACTION CODEZ
+INCORRECT CUSTOMER ID1234
+INVALID ACTION CODED
+Out of Stock :  3 1971 Ruth Gordon
+Out of Stock :  3 1971 Ruth Gordon
+Out of Stock :  3 1971 Ruth Gordon
+
+**** Displaying Movie List ****
+F, 9, Woody Allen, Annie Hall, 1977
+F, 8, Joel Coen, Fargo, 1996
+F, 9, John Landis, National Lampoon's Animal House, 1978
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 9, Nora Ephron, Sleepless in Seattle, 1993
+F, 9, Rob Reiner, When Harry Met Sally, 1989
+F, 9, Nora Ephron, You've Got Mail, 1998
+D, 9, Barry Levinson, Good Morning Vietnam, 1988
+D, 9, Clint Eastwood, Unforgiven, 1992
+D, 9, Gus Van Sant, Good Will Hunting, 2000
+D, 9, Jonathan Demme, Silence of the Lambs, 1991
+D, 8, Nancy Savoca, Dogfight, 1991
+D, 9, Phillippe De Broca, King of Hearts, 1967
+D, 9, Steven Spielberg, Schindler's List, 1993
+C, 9, George Cukor, Holiday, Cary Grant 9 1938
+C, 10, George Cukor, Holiday, Katherine Hepburn 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh 2 1939
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+C, 9, George Cukor, The Philadelphia Story, Cary Grant 5 1940
+C, 9, George Cukor, The Philadelphia Story, Katherine Hepburn 5 1940
+C, 9, John Huston, The Maltese Falcon, Humphrey Bogart 10 1941
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart 8 1942
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman 8 1942
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, James Steward 11 1946
+C, 9, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell 2 1971
+C, 0, Hal Ashby, Harold and Maude, Ruth Gordon 3 1971
+
+USER: 1000, Mouse, Minnie
+Transaction   Media   Movie
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       Fargo 1996
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       3 1971 Ruth Gordon
+B             D       5 1940 Cary Grant
+B             D       Good Will Hunting Gus Van Sant
+B             D       5 1940 Katherine Hepburn
+B             D       Good Morning Vietnam Barry Levinson
+
+USER: 1111, Mouse, Mickey
+Transaction   Media   Movie
+B             D       9 1938 Cary Grant
+B             D       10 1941 Humphrey Bogart
+B             D       3 1971 Ruth Gordon
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       2 1971 Malcolm McDowell
+
+USER: 5000, Frog, Freddie
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+
+USER: 8000, Wacky, Wally
+Transaction   Media   Movie
+B             D       National Lampoon's Animal House 1978
+B             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       You've Got Mail 1998
+B             D       You've Got Mail 1998
+
+USER: 8888, Pig, Porky
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+B             D       Dogfight Nancy Savoca
+B             D       Silence of the Lambs Jonathan Demme
+B             D       When Harry Met Sally 1989
+B             D       Annie Hall 1977
+
+**** Displaying Movie List ****
+F, 9, Woody Allen, Annie Hall, 1977
+F, 8, Joel Coen, Fargo, 1996
+F, 9, John Landis, National Lampoon's Animal House, 1978
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 9, Nora Ephron, Sleepless in Seattle, 1993
+F, 9, Rob Reiner, When Harry Met Sally, 1989
+F, 9, Nora Ephron, You've Got Mail, 1998
+D, 9, Barry Levinson, Good Morning Vietnam, 1988
+D, 9, Clint Eastwood, Unforgiven, 1992
+D, 9, Gus Van Sant, Good Will Hunting, 2000
+D, 9, Jonathan Demme, Silence of the Lambs, 1991
+D, 8, Nancy Savoca, Dogfight, 1991
+D, 9, Phillippe De Broca, King of Hearts, 1967
+D, 9, Steven Spielberg, Schindler's List, 1993
+C, 9, George Cukor, Holiday, Cary Grant 9 1938
+C, 10, George Cukor, Holiday, Katherine Hepburn 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh 2 1939
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+C, 9, George Cukor, The Philadelphia Story, Cary Grant 5 1940
+C, 9, George Cukor, The Philadelphia Story, Katherine Hepburn 5 1940
+C, 9, John Huston, The Maltese Falcon, Humphrey Bogart 10 1941
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart 8 1942
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman 8 1942
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, James Steward 11 1946
+C, 9, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell 2 1971
+C, 0, Hal Ashby, Harold and Maude, Ruth Gordon 3 1971
+
+****** Transaction History ******:
+I
+H 1000
+H 5000
+H 8000
+B8000 F
+B1000 D
+B1000 C
+B2000 F
+B4444 C
+B5000 C
+R5000 C
+B8888 F
+B1111 C
+B5000 C
+R5000 C
+B1000 D
+B2000 D
+R4444 C
+B1000 C
+B1111 C
+B1000 C
+B8888 F
+B8888 D
+R8000 F
+B9999 F
+B8000 C
+B1111 C
+B8000 C
+B1111 C
+B5000 C
+B8888 D
+B7777 D
+R5000 C
+B5000 C
+B8000 F
+B8888 C
+B7777 C
+B2000 C
+B2000 D
+B9000 D
+B9000 F
+B1000 F
+B2000 C
+B9000 C
+I
+H 1000
+H 1111
+H 5000
+H 8000
+H 8888
+
+**** Displaying Customer Lists ****
+
+USER: 1000, Mouse, Minnie
+Transaction   Media   Movie
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       Fargo 1996
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       3 1971 Ruth Gordon
+B             D       5 1940 Cary Grant
+B             D       Good Will Hunting Gus Van Sant
+B             D       5 1940 Katherine Hepburn
+B             D       Good Morning Vietnam Barry Levinson
+
+USER: 9000, Lizard, Larry
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon  *** OUT OF STOCK : TRANSACTION FAILED ***
+B             D       3 1971 Ruth Gordon
+B             D       Fargo 1996
+B             D       Unforgiven Clint Eastwood
+
+USER: 4444, Moose, Bullwinkle
+Transaction   Media   Movie
+R             D       2 1971 Malcolm McDowell
+B             D       2 1971 Malcolm McDowell
+
+USER: 2000, Duck, Donald
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+B             D       Dogfight Nancy Savoca
+B             D       3 1971 Ruth Gordon
+B             D       King of Hearts Phillippe De Broca
+B             D       Sleepless in Seattle 1993
+
+USER: 6666, Donkey, Darrell
+
+USER: 8888, Pig, Porky
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+B             D       Dogfight Nancy Savoca
+B             D       Silence of the Lambs Jonathan Demme
+B             D       When Harry Met Sally 1989
+B             D       Annie Hall 1977
+
+USER: 8000, Wacky, Wally
+Transaction   Media   Movie
+B             D       National Lampoon's Animal House 1978
+B             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       You've Got Mail 1998
+B             D       You've Got Mail 1998
+
+USER: 1111, Mouse, Mickey
+Transaction   Media   Movie
+B             D       9 1938 Cary Grant
+B             D       10 1941 Humphrey Bogart
+B             D       3 1971 Ruth Gordon
+B             D                           *** MOVIE NOT FOUND : TRANSACTION FAILED ***
+B             D       2 1971 Malcolm McDowell
+
+USER: 3333, Witch, Wicked
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon  *** OUT OF STOCK : TRANSACTION FAILED ***
+
+USER: 5000, Frog, Freddie
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+R             D       3 1971 Ruth Gordon
+B             D       3 1971 Ruth Gordon
+
+USER: 7777, Spider, Sammy
+Transaction   Media   Movie
+B             D       3 1971 Ruth Gordon  *** OUT OF STOCK : TRANSACTION FAILED ***
+B             D       3 1971 Ruth Gordon
+B             D       Schindler's List Steven Spielberg
+
+USER: 9999, Duck, Daffy
+Transaction   Media   Movie
+B             D       You've Got Mail 1998
+====================================
+
+Passed All Tests ...

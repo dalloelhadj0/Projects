@@ -1,0 +1,95 @@
+TEST_CASE_INSTRUCTOR: 
+PART_1 EXECUTION 
+Description           From node   To node    Dijkstra's   Path
+Martin Luther King
+
+                          1         2          20         1 2 
+                          1         3          50         1 3 
+                          1         4          90         1 3 4 
+                          1         5          70         1 5 
+Gun hill Road
+
+                          2         1        ----
+                          2         3        ----
+                          2         4          90         2 4 
+                          2         5        ----
+Flatbush Ave 
+
+                          3         1        ----
+                          3         2          30         3 2 
+                          3         4          40         3 4 
+                          3         5        ----
+Bronx Park Ave
+
+                          4         1        ----
+                          4         2        ----
+                          4         3        ----
+                          4         5        ----
+Brooklyn Bridge
+
+                          5         1        ----
+                          5         2          25         5 2 
+                          5         3        ----
+                          5         4          29         5 4 
+      3      1           ----
+
+      1      2          20              1 2 
+Martin Luther King
+Gun hill Road
+
+
+      1      4          90              1 3 4 
+Martin Luther King
+Flatbush Ave 
+
+Bronx Park Ave
+
+
+Description           From node   To node    Dijkstra's   Path
+Alpha
+
+                          1         2          40         1 2 
+                          1         3          50         1 3 
+                          1         4        ----
+Betta
+
+                          2         1        ----
+                          2         3          20         2 3 
+                          2         4        ----
+Gamma
+
+                          3         1        ----
+                          3         2          45         3 2 
+                          3         4        ----
+Charlie
+
+                          4         1          70         4 1 
+                          4         2         105         4 3 2 
+                          4         3          60         4 3 
+      3      1           ----
+
+      1      2          40              1 2 
+Alpha
+Betta
+
+
+      1      4           ----
+
+PART_2 EXECUTION 
+Graph:
+Node 1        Martin Luther King
+  edge 1 5
+  edge 1 3
+  edge 1 2
+Node 2        Gun hill Road
+  edge 2 4
+Node 3        Flatbush Ave 
+  edge 3 4
+  edge 3 2
+Node 4        Bronx Park Ave
+Node 5        Brooklyn Bridge
+  edge 5 4
+  edge 5 2
+
+
+Depth-First-Ordering: 1 5 4 2 3 
